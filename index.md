@@ -22,10 +22,7 @@ Supported arguments:
     - email
 -->
 
-<div class="wrap">
-	<span>{% include cv-contact.html %}</span>
-	<img src='https://testingcf.jsdelivr.net/gh/WanpengXu/myPicGo/img/202209080101563.jpg' style='float:right; width:300px;height:100 px'/>
-</div>
+{% include cv-contact.html %}
 
 ## 基本信息
 
