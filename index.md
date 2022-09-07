@@ -23,7 +23,7 @@ Supported arguments:
 -->
 
 <div class="wrap">
-	{% include cv-contact.html %}
+	<span>{% include cv-contact.html %}</span>
 	<img src='https://testingcf.jsdelivr.net/gh/WanpengXu/myPicGo/img/202209080101563.jpg' style='float:right; width:300px;height:100 px'/>
 </div>
 
