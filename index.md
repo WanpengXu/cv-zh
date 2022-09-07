@@ -10,7 +10,7 @@ homepage:
 phone: 17372145682
 ---
 
-<center><a href="https://xuwp.top/cv-zh/">Chinese Version</a> | <a href="https://xuwp.top/cv-en/">English Version</a></center>
+<center>Chinese Version | <a href="https://xuwp.top/cv-en/">English Version</a></center>
 
 # 许万鹏
 
