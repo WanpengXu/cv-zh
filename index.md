@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wanpeng Xu
+title: 许万鹏
 email:
   url: mailto:xwp@cumt.edu.cn
   text: xwp@cumt.edu.cn
@@ -10,7 +10,7 @@ homepage:
 phone: 17372145682
 ---
 
-# Wanpeng **Xu**
+# 许万鹏
 
 <!--
 include contact information from the front matter
@@ -22,79 +22,79 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 基本信息
 
-### **China University of Mining and Technology** `2019.8 - Present`
+### **中国矿业大学** `2019.8至今`
 
 ```
-XuZhou, JiangSu
+徐州, 江苏
 ```
 
-- Undergraduate in Information Security at Computer Science department
-- Advised by [Zhiwen Shao](https://zhiwenshao.github.io/)
+- 计算机科学与技术学院 信息安全专业 本科在读
+- 指导老师 [邵志文](https://zhiwenshao.github.io/)
 
 <br>
 
-**English**: CET-6 **465**
+**英语水平**: CET-6 **465**
 
-**Algorithm**: CCF-CSP **280**
+**算法水平**: CCF-CSP **280**
 
-**Academic Record**: Score Point Average **89.55 (6/129, Top 4.65%)**
+**成绩排名**: Score Point Average **89.55 (6/129, Top 4.65%)**
 
-**Major Subjects**：
-- **Math**: Advanced Mathematics **92(mean)**,  Linear Algebra **97**,  Probability Theory and Mathematical Statistics **91**, Discrete Mathematics **98**,  Mathematics Foundation of Information Security **97**,  Mathematical Optimization **94**
-- **408(Grade)**: Data Structure **4.0**,  Computer Network **4.5**,  Operating System **4.5**,  Principle of Computer Organization **4.0**
-- **Security**: Operating System Security **97**,  Network Attack and Defense Practice **98**,  Cryptography **94**
-- **Else**: Python Programming **100**,  Linux Operating System **97**,  Artificial Intelligence **99**
+**主修课程**：
+- **数学**: 高等数学 **92(mean)**,  线性代数 **97**,  概率论与数理统计 **91**, 离散数学 **98**,  信息安全数学基础 **97**,  最优化方法 **94**
+- **408(绩点制)**: 数据结构 **4.0**,  计算机网络 **4.5**,  操作系统 **4.5**,  计算机组成原理 **4.0**
+- **安全**: 操作系统安全 **97**,  网络攻防实践 **98**,  密码学 **94**
+- **其他**: Python程序设计 **100**,  Linux操作系统 **97**,  人工智能 **99**
 
-## Selected Honors
+## 部分荣誉
 
-### **Scholarships**
+### **奖学金**
 
-- **China National Scholarship** `2019-2020` <br>
-- First Class Scholarship `2020-2021` <br>
-- "Shanghai Energy" Enterprise Scholarship `2021-2022` <br>
-- Jiangsu-HongKong-Macao University Alliance(JHMUA) Government Scholarship `2021-2022` <br>
+- **国家奖学金** `2019-2020` <br>
+- 一等奖学金 `2020-2021` <br>
+- “上海能源”企业奖学金 `2021-2022` <br>
+- 苏港澳高校合作联盟 政府奖学金 `2021-2022` <br>
 
-### **Awards**
+### **奖项**
 
-- China Collegiate Computing Contest-Network Technology Challenge, Second Prize `2022` <br>
-- The Chinese Mathematics Competition, Third Prize `2020`<br>
-- ADPC, Bronze`2021`<br>
+- 中国高校计算机大赛-网络技术挑战赛, 二等奖 `2022` <br>
+- 全国大学生数学竞赛, 三等奖 `2020`<br>
+- ADPC, 铜奖`2021`<br>
 <br>
-- Mathematics Competition of JiangSu Province, Second Prize `2020`<br>
-- LanQiao Cup Programming Competition of JiangSu Province, Second Prize `2022`<br>
+- 江苏省普通高等学校第十七届高等数学竞赛, 二等奖 `2020`<br>
+- 江苏省蓝桥杯大赛, 二等奖 `2022`<br>
 <br>
-- LongGe Cup Programming Competition of CUMT, Second Prize `2021`<br>
-- CTF Contest of CUMT, First Prize `2021`<br>
+- 中国矿业大学“龙戈杯”程序设计学科竞赛, 二等奖 `2021`<br>
+- 中国矿业大学网络空间安全技能大赛, 一等奖 `2021`<br>
 
-## Research Interests
+## 研究兴趣
 
-### **Image Analysis**
-- Face Alignment, Face Recognition, Face Anti-Spoofing, Image Matching.
+### **图像分析**
+- 人脸对齐, 人脸识别, 人脸抗欺骗（活体检测）, 图像匹配。
 
-### **Deep Learning**
-- Transformer, Convolutional Neural Network.
+### **深度学习**
+- Transformer, 卷积神经网络。
 
-### **Binary Security**
-- Operating System Security, Taint Analysis, Blockchain.
+### **二进制安全**
+- 操作系统安全, 污点分析, 区块链。
 
-## Research & Project
+## 研究与项目
 
-### **Alibaba 2021 Summer Joint of Blockchain** <i class="fas fa-award"></i> **Outstanding Students**
-Using Solidity implement Contract Honeypot etc.`2021.8-2021.9`<br>
+### **阿里巴巴2021暑期区块链联合培养** <i class="fas fa-award"></i> **优秀学员**
+使用Solidity实现蜜罐合约等。`2021.8-2021.9`<br>
 
-### **Mathematical Optimization Course Design**
-Using Matlab implement One-dimensional Search, FR Conjugate Gradient and Penalty method`2021.10-2021.11`<br>
+### **《最优化方法》课程设计**
+使用Matlab实现一维搜索算法、FR共轭梯度法、罚函数法。`2021.10-2021.11`<br>
 
-### **School-Enterprise Cooperation Projects**
-Implement a **Deep Learning-based Face Recognition Attendance System** for Guang Lian Technology Company`2022.4-2022.7`<br>
+### **校企合作项目**
+为“广联科技”公司实现一个**基于深度学习的人脸识别考勤系统**。`2022.4-2022.7`<br>
 
-### **Fuzzing Technology Based on Snapshot Relay Execution(2022 Summer**) <i class="fas fa-award"></i> **National Second Prize**
-Research a Fuzzer based on Intel PIN(A Dynamic Binary Instrumentation Tool) focusing on dump file to analyze vulnerabilities automatically.`2022.7-2022.9`<br>
+### **基于快照中继执行的模糊测试技术（2022暑期）** <i class="fas fa-award"></i> **国家级二等奖**
+研究一个基于Intel PIN（一个动态二进制插桩工具）的，对dump文件实现自动化漏洞分析的模糊测试器。`2022.7-2022.9`<br>
 
-### **Research on Face Anti-Spoofing(2022 Summer)**
-Research on **Face Anti-Spoofing** and reproduce paper`2022.9-Present`<br>
+### **研究活体检测(2022暑期)**
+研究**人脸抗欺骗（活体检测）**并进行论文复现。`2022.9至今`<br>
 
 <!--
 
