@@ -200,7 +200,7 @@ h3 {
 }
 
 code {
-  font-family: "Palatino";
+  font-family: Palatino, "Palatino Linotype", FangSong;
   font-style: italic;
   float: right;
 }
