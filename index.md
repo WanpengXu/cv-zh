@@ -59,7 +59,7 @@ Supported arguments:
 - **408(绩点制)**: 数据结构 **4.0**,  计算机网络 **4.5**,  操作系统 **4.5**,  计算机组成原理 **4.0**
 - **安全**: 操作系统安全 **97**,  网络攻防实践 **98**,  密码学 **94**
 - **其他**: Python程序设计 **100**,  Linux操作系统 **97**,  人工智能 **99**
-- [了解更多](https://github.com/WanpengXu/CUMT-IS-Course-Resources-2019-WanpengXu)
+- [**了解更多**](https://github.com/WanpengXu/CUMT-IS-Course-Resources-2019-WanpengXu)
 
 **政治面貌**: 中国共产党党员
 
